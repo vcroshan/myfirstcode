@@ -2,3 +2,4 @@ This is my first file in git
 added a new line to the file
 
 added third line
+added 4th line
