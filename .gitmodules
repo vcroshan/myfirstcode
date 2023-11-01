@@ -1,0 +1,7 @@
+[submodule "submodule"]
+	path = module/utils
+	url = https://github.com/vcroshan/mythirdrepo.git
+
+[submodule "submodule1"]
+	path = module1/utils
+	url = https://github.com/vcroshan/mythirdrepo.git
