@@ -1,7 +1,9 @@
-[submodule "submodule"]
-	path = module/utils
-	url = https://github.com/vcroshan/mythirdrepo.git
 
 [submodule "submodule1"]
+	path = module/utils
+	url = https://github.com/vcroshan/mythirdrepo.git
+	branch = master
+[submodule "submodule2"]
 	path = module1/utils
 	url = https://github.com/vcroshan/mythirdrepo.git
+	branch = master
